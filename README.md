@@ -30,11 +30,18 @@ ___
 - Using Postman for testing
 - Java Specifications
 
-##Postman Testing
+## Postman Testing
+### Test 1
 >![Test 1](Pictures/Test1.png)
+### Test 2
 >![Test 2](Pictures/Test2.png)
+### Test 3
 >![Test 3](Pictures/Test3.png)
+### Test 4
 >![Test 4](Pictures/Test4.png)
+### Test 5
 >![Test 5](Pictures/Test5.png)
+### Test 6
 >![Test 6](Pictures/Test6.png)
+### Test 7
 >![Test 7](Pictures/Test7.png)
